@@ -1,4 +1,4 @@
-# Drug Trial analysis
+# Drug trial analysis
 
 ## About this project
 This project analyzes ficticious cancer drug trial information for Capomulin and its competitors, to determine their effectiveness in reducing tumor size in test subjects.
